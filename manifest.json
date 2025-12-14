@@ -1,0 +1,75 @@
+{
+  "version": "1.0.0",
+  "badges": [
+    {
+      "name": "ChatBadge",
+      "file": "ChatBadge.lua",
+      "description": "Awards a badge when a player sends a chat message"
+    },
+    {
+      "name": "ClickBadge",
+      "file": "ClickBadge.lua",
+      "description": "Awards a badge when a player clicks an object or UI"
+    },
+    {
+      "name": "CreatorBadge",
+      "file": "CreatorBadge.lua",
+      "description": "Awards a badge to the game creator"
+    },
+    {
+      "name": "DailyLoginBadge",
+      "file": "DailyLoginBadge.lua",
+      "description": "Awards a badge for logging in on multiple days"
+    },
+    {
+      "name": "DiedBadge",
+      "file": "DiedBadge.lua",
+      "description": "Awards a badge when a player dies for the first time"
+    },
+    {
+      "name": "FriendsJoinedBadge",
+      "file": "FriendsJoinedBadge.lua",
+      "description": "Awards a badge when a friend joins the same server"
+    },
+    {
+      "name": "GamepassBadge",
+      "file": "GamepassBadge.lua",
+      "description": "Awards a badge when a player owns a specific gamepass"
+    },
+    {
+      "name": "GroupBadge",
+      "file": "GroupBadge.lua",
+      "description": "Awards a badge for being in a Roblox group"
+    },
+    {
+      "name": "KillsBadge",
+      "file": "KillsBadge.lua",
+      "description": "Awards a badge when a player reaches a kill milestone"
+    },
+    {
+      "name": "LevelsBadge",
+      "file": "LevelsBadge.lua",
+      "description": "Awards a badge when a player reaches a certain level"
+    },
+    {
+      "name": "PartBadge",
+      "file": "PartBadge.lua",
+      "description": "Awards a badge when a player touches a specific part"
+    },
+    {
+      "name": "PromptBadge",
+      "file": "PromptBadge.lua",
+      "description": "Awards a badge after a proximity prompt is triggered"
+    },
+    {
+      "name": "TimeBadge",
+      "file": "TimeBadge.lua",
+      "description": "Awards a badge after the player plays for a set amount of time"
+    },
+    {
+      "name": "WelcomeBadge",
+      "file": "WelcomeBadge.lua",
+      "description": "Awards a badge when a player joins the game"
+    }
+  ]
+}
