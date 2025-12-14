@@ -3,73 +3,73 @@
   "badges": [
     {
       "name": "ChatBadge",
-      "file": "ChatBadge.lua",
-      "description": "Awards a badge when a player sends a chat message"
+      "file": "Badges/ChatBadge.lua",
+      "description": "Awarded when a player sends a chat message"
     },
     {
       "name": "ClickBadge",
-      "file": "ClickBadge.lua",
-      "description": "Awards a badge when a player clicks an object or UI"
+      "file": "Badges/ClickBadge.lua",
+      "description": "Awarded when a player clicks something"
     },
     {
       "name": "CreatorBadge",
-      "file": "CreatorBadge.lua",
-      "description": "Awards a badge to the game creator"
+      "file": "Badges/CreatorBadge.lua",
+      "description": "Awarded to the game creator"
     },
     {
       "name": "DailyLoginBadge",
-      "file": "DailyLoginBadge.lua",
-      "description": "Awards a badge for logging in on multiple days"
+      "file": "Badges/DailyLoginBadge.lua",
+      "description": "Awarded for logging in on multiple days"
     },
     {
       "name": "DiedBadge",
-      "file": "DiedBadge.lua",
-      "description": "Awards a badge when a player dies for the first time"
+      "file": "Badges/DiedBadge.lua",
+      "description": "Awarded when a player dies"
     },
     {
       "name": "FriendsJoinedBadge",
-      "file": "FriendsJoinedBadge.lua",
-      "description": "Awards a badge when a friend joins the same server"
+      "file": "Badges/FriendsJoinedBadge.lua",
+      "description": "Awarded when a friend joins the server"
     },
     {
       "name": "GamepassBadge",
-      "file": "GamepassBadge.lua",
-      "description": "Awards a badge when a player owns a specific gamepass"
+      "file": "Badges/GamepassBadge.lua",
+      "description": "Awarded for owning a specific gamepass"
     },
     {
       "name": "GroupBadge",
-      "file": "GroupBadge.lua",
-      "description": "Awards a badge for being in a Roblox group"
+      "file": "Badges/GroupBadge.lua",
+      "description": "Awarded for Roblox group rank"
     },
     {
       "name": "KillsBadge",
-      "file": "KillsBadge.lua",
-      "description": "Awards a badge when a player reaches a kill milestone"
+      "file": "Badges/KillsBadge.lua",
+      "description": "Awarded when a player gets enough kills"
     },
     {
       "name": "LevelsBadge",
-      "file": "LevelsBadge.lua",
-      "description": "Awards a badge when a player reaches a certain level"
+      "file": "Badges/LevelsBadge.lua",
+      "description": "Awarded when a player reaches a certain level"
     },
     {
       "name": "PartBadge",
-      "file": "PartBadge.lua",
-      "description": "Awards a badge when a player touches a specific part"
+      "file": "Badges/PartBadge.lua",
+      "description": "Awarded when touching a defined part"
     },
     {
       "name": "PromptBadge",
-      "file": "PromptBadge.lua",
-      "description": "Awards a badge after a proximity prompt is triggered"
+      "file": "Badges/PromptBadge.lua",
+      "description": "Awarded after activating a prompt"
     },
     {
       "name": "TimeBadge",
-      "file": "TimeBadge.lua",
-      "description": "Awards a badge after the player plays for a set amount of time"
+      "file": "Badges/TimeBadge.lua",
+      "description": "Awarded after playing for a certain time"
     },
     {
       "name": "WelcomeBadge",
-      "file": "WelcomeBadge.lua",
-      "description": "Awards a badge when a player joins the game"
+      "file": "Badges/WelcomeBadge.lua",
+      "description": "Awarded when a player joins the game"
     }
   ]
 }
